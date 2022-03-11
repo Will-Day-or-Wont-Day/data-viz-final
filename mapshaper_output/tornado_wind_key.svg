@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" width="300" height="31" viewBox="0 0 300 31" stroke-linecap="butt" stroke-linejoin="round">
+<style>
+  path {shape-rendering: crispEdges;}
+</style>
+<g id="layer26">
+<path d="M 1 10.93 1 1 38.25 1 38.25 10.93 1 10.93 Z" fill="#fcfbfd"/>
+<path d="M 38.25 10.93 38.25 1 75.5 1 75.5 10.93 38.25 10.93 Z" fill="#efedf5"/>
+<path d="M 75.5 10.93 75.5 1 112.75 1 112.75 10.93 75.5 10.93 Z" fill="#dadaeb"/>
+<path d="M 112.75 10.93 112.75 1 150 1 150 10.93 112.75 10.93 Z" fill="#bcbddc"/>
+<path d="M 150 10.93 150 1 187.25 1 187.25 10.93 150 10.93 Z" fill="#9e9ac8"/>
+<path d="M 187.25 10.93 187.25 1 224.5 1 224.5 10.93 187.25 10.93 Z" fill="#807dba"/>
+<path d="M 224.5 10.93 224.5 1 261.75 1 261.75 10.93 224.5 10.93 Z" fill="#6a51a3"/>
+<path d="M 261.75 10.93 261.75 1 299 1 299 10.93 261.75 10.93 Z" fill="#4a1486"/>
+</g>
+<g id="layer27" fill="none" stroke="black" stroke-width="1">
+<path d="M 38.25 1 38.25 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 75.5 1 75.5 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 112.75 1 112.75 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 150 1 150 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 187.25 1 187.25 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 224.5 1 224.5 16.89" stroke="rgba(0,0,0,0.3)"/>
+<path d="M 261.75 1 261.75 16.89" stroke="rgba(0,0,0,0.3)"/>
+</g>
+<g id="layer28" font-family="sans-serif" font-size="12" text-anchor="middle">
+<text y="0" x="0" transform="translate(38.3 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">0.01</text>
+<text y="0" x="0" transform="translate(75.5 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">0.09</text>
+<text y="0" x="0" transform="translate(112.8 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">0.28</text>
+<text y="0" x="0" transform="translate(150 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">0.58</text>
+<text y="0" x="0" transform="translate(187.3 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">1.05</text>
+<text y="0" x="0" transform="translate(224.5 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">1.92</text>
+<text y="0" x="0" transform="translate(261.8 29.9)" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#555">5</text>
+</g>
+</svg>
